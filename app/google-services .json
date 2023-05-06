@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574273146210",
+    "project_id": "life-decision-93ec8",
+    "storage_bucket": "life-decision-93ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574273146210:android:49cb031387d2176833f03b",
+        "android_client_info": {
+          "package_name": "com.walid6000.lifedecision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574273146210-gfc2147m43p5kcbel4ajhslqirm972n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walid6000.lifedecision",
+            "certificate_hash": "fbb4123c663d5efa4789cb11ca1660a6b062ae13"
+          }
+        },
+        {
+          "client_id": "574273146210-4h2si9t20j4clb178b88dbaa4lchvfls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SKAq0pAcZNsIDqjsxHqpeUOtRbPMJ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574273146210-4h2si9t20j4clb178b88dbaa4lchvfls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

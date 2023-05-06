@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BEST CHOICE</string>
+    <string name="change_language">Change Language</string>
+    <string name="to_change_the_language_of_the_app_go_to_settings_system_languages_amp_input_language">To change the language of the app, go to Settings > System > Languages &amp; input > Language"</string>
+    <string name="presentation_texte"> APP PRESENTATION </string>
+    <string name="te_presentation">You hesitate and wonder if you should end your life with your partner or move on. Is it better to make this decision or not? This application, based on artificial intelligence and after choosing your situation and your relationship with your emotional partner, will show you the percentage of people who have succeeded in their choices. It might help you make the right decision based on the millions of people who were in the same situation</string>
+    <string name="sign_in_app">Sign in with Google</string>
+    <string name="sign_out">Sign out </string>
+
+
+</resources>

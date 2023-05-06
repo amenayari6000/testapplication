@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">افضل اختيار</string>
+    <string name="change_language">تغير لغة برنامج</string>
+    <string name="presentation_texte">مقدمة</string>
+    <string name="te_presentation">" اواصل هل افضل ان اقدم على هذه الخطوة  ام لا؟ في هذه التطبيقة واستناد الى الذكاء الاصطناعي وبعد اختيار وضعيتك وعلاقتك بشريكك العاطفي ستعرف نسبة الأشخاص اللذين نجحو في اختيارتهم ربما هذا سيساعدك على اتخاذ القرار المناسب استناد الي ملايين كانو في نفس وضعك "</string>
+    <string name="sign_in_app">"الدخول عن طريق قوقل "</string>
+    <string name="to_change_the_language_of_the_app_go_to_settings_system_languages_amp_input_language">اعدادات _اعدادات اضافية_لغة_العربية</string>
+    <string name="sign_out">خروج</string>
+</resources>

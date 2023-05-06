@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meilleur choix</string>
+    <string name="change_language">Pour Changer La Langue</string>
+    <string name="to_change_the_language_of_the_app_go_to_settings_system_languages_amp_input_language">PRAMETRES>LANGUE>FRANCAIS</string>
+    <string name="presentation_texte">PRESENTATION</string>
+    <string name="te_presentation">Vous hésitez et vous demandez si vous devez mettre fin à votre vie avec votre partenaire ou continuer. Est-il préférable de prendre cette décision ou non? Cette application, basée sur l\'intelligence artificielle et après avoir choisi votre situation et votre relation avec votre partenaire émotionnel, vous montrera le pourcentage de personnes qui ont réussi dans leurs choix. Cela pourrait peut-être vous aider à prendre la bonne décision en fonction des millions de personnes qui étaient dans la même situation</string>
+    <string name="sign_in_app">Entre Avec Google</string>
+    <string name="sign_out">Exit App</string>
+</resources>

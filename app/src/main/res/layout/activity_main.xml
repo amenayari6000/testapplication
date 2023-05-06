@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:background="@drawable/ic_launcher_background"
+
+
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+    >
+
+    <!-- Language selection buttons -->
+
+    <!-- Sign-in button -->
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="231dp"
+        android:layout_height="159dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="8dp"
+
+
+        app:srcCompat="@drawable/wellcom01" />
+
+
+    <EditText
+        android:id="@+id/change_language_textview"
+        android:layout_width="220dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/formedittext"
+        android:backgroundTint="#0E0F2E"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="@string/change_language"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="italic" />
+
+    <TextView
+
+        android:id="@+id/my_text_view"
+        android:layout_width="331dp"
+        android:layout_height="46dp"
+
+
+        android:layout_marginTop="1dp"
+        android:background="#009688"
+        android:inputType="none"
+        android:text="@string/to_change_the_language_of_the_app_go_to_settings_system_languages_amp_input_language"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        tools:ignore="TextSizeCheck" />
+
+
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="220dp"
+
+        android:layout_height="54dp"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/formedittext"
+
+        android:backgroundTint="#0D0E2C"
+        android:enabled="false"
+
+
+        android:gravity="center"
+        android:text="@string/presentation_texte"
+
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        tools:ignore="TextFields" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/presentation"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+
+        android:layout_marginTop="1dp"
+        android:background="#009688"
+
+
+        android:ems="10"
+        android:enabled="false"
+        android:gravity="center"
+        android:text="@string/te_presentation"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        tools:ignore="@string/TextSizeCheck" />
+
+
+    <Button
+
+        android:id="@+id/sin"
+        android:layout_width="161dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/formedittext"
+
+
+        android:backgroundTint="@color/white"
+        android:text="@string/sign_in_app"
+        android:textColor="#0097A7"
+        android:textStyle="italic"
+        tools:ignore="TextFields" />
+
+
+
+
+</LinearLayout>
